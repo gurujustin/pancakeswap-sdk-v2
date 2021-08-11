@@ -17,7 +17,7 @@ git clone https://github.com/blockchainGuru125/pancakeswap-sdk-v2.git
 Move into the pancakeswap-sdk working directory
 
 ```sh
-cd pancakeswap-sdk/
+cd pancakeswap-sdk-v2/
 ```
 
 Install dependencies
